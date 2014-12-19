@@ -1,0 +1,40 @@
+﻿<ion-view title="Games">
+    <ion-nav-buttons side="left">
+        <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
+    </ion-nav-buttons>
+    <ion-content class="has-header">
+        <div ng-repeat="game in games" class="list card">
+
+            <div class="item item-avatar">
+                <img ng-src="images/{{game.icon}}.png">
+                <h2>{{game.title}}</h2>
+                <p>{{game.date}}</p>
+            </div>
+
+            <div class="item item-body">
+                <img class="full-image" ng-src="http://deadlinegamedev.github.io/DeadlineGameDev/game{{game.id}}/screenshot.png">
+                <p>
+                    {{game.description}}
+                </p>
+            </div>
+
+            <div class="item tabs tabs-secondary tabs-icon-left">
+                <a class="tab-item" href="#/app/games/{{game.id}}">
+                    <i class="icon ion-game-controller-b"></i>
+                    Play
+                </a>
+                <a class="tab-item" href="#" ng-click="showYoutube(game)">
+                    <i class="icon ion-social-youtube"></i>
+                    YouTube
+                </a>
+                <a class="tab-item" href="#" ng-click="share(game)">
+                    <i class=" icon ion-share">
+                    </i>
+                    Share
+                </a>
+            </div>
+
+        </div>
+        <div style="height: 30px"></div>
+    </ion-content>
+</ion-view>
