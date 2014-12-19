@@ -1,0 +1,4 @@
+[submodule "Games"]
+	path = Games
+	url = https://github.com/deadlinegamedev/DeadlineGameDev.git
+	branch = gh-pages
