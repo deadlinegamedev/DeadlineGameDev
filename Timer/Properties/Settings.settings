@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DeadlineGameDev.Timer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Duration" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">01:00:00</Value>
+    </Setting>
+    <Setting Name="Color1" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">200, 40, 40</Value>
+    </Setting>
+    <Setting Name="Color2" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="FontSize" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">48</Value>
+    </Setting>
+    <Setting Name="PauseColor1" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">230, 120, 40</Value>
+    </Setting>
+    <Setting Name="PauseColor2" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 170, 0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
