@@ -1,7 +1,7 @@
 DeadlineGameDev gh-pages
 ========================
 
-This branch is publicly hosted on [http://deadlinegamedev.github.io/deadlinegamedev](http://deadlinegamedev.github.io/DeadlineGameDev). The DeadlineGameDev app pulls all game assets from this url. Please go to the [master branch](https://github.com/deadlinegamedev/DeadlineGameDev) to see the full source code of the DeadlineGameDev project.
+This branch is publicly hosted on [http://deadlinegamedev.github.io/DeadlineGameDev](http://deadlinegamedev.github.io/DeadlineGameDev). The DeadlineGameDev app pulls all game assets from this url. Please go to the [master branch](https://github.com/deadlinegamedev/DeadlineGameDev) to see the full source code of the DeadlineGameDev project.
 
 
 Watch the development on [YouTube](https://www.youtube.com/user/DeadlineGameDev) and [Twitch](http://www.twitch.tv/DeadlineGameDev)  
