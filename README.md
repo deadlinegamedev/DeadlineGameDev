@@ -3,8 +3,13 @@ DeadlineGameDev gh-pages
 
 This branch is publicly hosted on [http://deadlinegamedev.github.io/DeadlineGameDev](http://deadlinegamedev.github.io/DeadlineGameDev). The DeadlineGameDev app pulls all game assets from this url. Please go to the [master branch](https://github.com/deadlinegamedev/DeadlineGameDev) to see the full source code of the DeadlineGameDev project.
 
-##Episode 1: [Money Riot](game1)
-![Money Riot screenshot](game1/screenshot.png)
+
+##Episode 1: Money Riot
+
+[![Money Riot screenshot](https://github.com/deadlinegamedev/DeadlineGameDev/blob/gh-pages/game1/screenshot.png)](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game1)
+
+Watch the [making-of](http://youtu.be/_oMp9jrS7Bk) and download the [source code](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game1).
+
 
 ##Links
 Watch the development on [YouTube](https://www.youtube.com/user/DeadlineGameDev) and [Twitch](http://www.twitch.tv/DeadlineGameDev)  
