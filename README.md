@@ -6,5 +6,14 @@ Discuss on [Twitter](https://twitter.com/DeadlineGameDev), [Facebook](https://ww
 Contribute assets on [Dropbox](https://dbinbox.com/DeadlineGameDev)  
 Try the app on [Android](https://play.google.com/store/apps/developer?id=DeadlineGameDev)
 
+
+##Episode 1: Money Riot
+
+[![Money Riot screenshot](https://github.com/deadlinegamedev/DeadlineGameDev/blob/gh-pages/game1/screenshot.png)](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game1)
+
+Watch the [making-of](http://youtu.be/_oMp9jrS7Bk) and download the [source code](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game1).
+
+
+##Contact
 [info@deadlinegamedev.com](mailto:info@deadlinegamedev.com)  
 [DeadlineGameDev.com](http://deadlinegamedev.com)
