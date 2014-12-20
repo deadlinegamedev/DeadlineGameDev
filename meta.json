@@ -1,1 +1,10 @@
-﻿[]
+[
+	{
+        "id" : 1,
+        "date" : "December 3, 2014",
+        "title" : "Episode 1: Money Riot",
+        "icon" : "deadline",
+        "youtube" : "_oMp9jrS7Bk",
+        "description" : "This game is an adaptation of the iterated prisoners dilemma. You play against your former partner-in-crime Marv to get out of prison and become a millionaire."
+    }
+]

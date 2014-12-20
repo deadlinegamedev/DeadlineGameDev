@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script src="index.js" type="text/javascript"></script>
+</head>
+<body style="padding: 5%">
+    <div id="screen0">
+        <div>
+            You have robbed a bank with your friend Marv and you hid the $10 mio. loot in a safe place. 
+            Shortly after, your were caught by the police and you go to jail. 
+            Unfortunately, your friend Marv had a better layer than you and therefore his prison sentence is only 4 years while yours is 5 years.
+            Generally, you can trust Marv... but not with that kind of money.
+        </div>
+        <button style="position: absolute; right: 10%; bottom: 10%" onclick="startGame();">Start</button>
+    </div>
+    <div id="screen1" style="display: none">
+        <div>You started a riot with your friend Marv to escape in the confusion but then you got caught and now you are being interogated in two separate rooms.</div>
+        <div style="margin-top: 1em"><span>Interogator: </span><span>Did you try to escape?</span></div>
+        <div style="background: black; width: 1px; height: 50%; bottom: 0; position: absolute; left: 50%"></div>
+        <div style="width: 50%; position: absolute; height: 50%; bottom: 0; left: 0"><div style="text-align: center">Your answer:</div></div>
+        <div style="width: 50%; position: absolute; height: 50%; bottom: 0; right: 0"><div style="text-align: center">Marv is thinking...</div></div>
+        <div style="width: 50%; position: absolute; height: 50%; bottom: 0; left: 0">
+            <div style="position: relative; left: 10%; top: 50%">
+                <div style="margin-bottom: 5%"><button onclick="staySilent();">No, I didn't!</button></div>
+                <div><button onclick="betray();">No, but Marv tried to escape!</button></div>
+            </div>
+        </div>
+    </div>
+    <div id="screen2" style="display: none">
+        <div>
+            <span id="you-cooperate" style="display: none">You denied your participation in the escape.</span>
+            <span id="you-defect" style="display: none">You testified on Marv planning the escape.</span>
+            <span id="marv-cooperate" style="display: none">Marv denied his participation in the escape.</span>
+            <span id="marv-defect" style="display: none">Marv testified on You planning the escape.</span>
+        </div>
+        <div style="margin-top: 1em">
+            <div id="you-extended" style="display: none">Your prison sentence was extended by <span id="you-extended-val"></span> years.</div>
+            <div id="you-free" style="display: none">You won't be punished.</div>
+            <div id="marv-extended" style="display: none">Marv's prison sentence was extended by <span id="marv-extended-val"></span> years.</div>
+            <div id="marv-free" style="display: none">Marv won't be punished.</div>
+        </div>
+        <button style="position: absolute; right: 10%; bottom: 20%" onclick="continueGame();">Continue</button>
+        <div style="position: absolute; left: 10%; bottom: 10%"><span>Your remaining years: </span><span id="you-remaining"></span></div>
+        <div style="position: absolute; right: 10%; bottom: 10%"><span>Marv's remaining years: </span><span id="marv-remaining"></span></div>
+        <div style="position: absolute; left: 0; right: 0; bottom: 10%; text-align: center"><span>Your age: </span><span id="you-age"></span></div>
+    </div>
+    <div id="screen3" style="display: none">
+        <div style="width: 100%; margin-top: 10%; text-align: center; font-size: 2em">Congratulations!</div>
+        <div style="width: 100%; margin-top: 10%; text-align: center">You got out of prison before Marv and the 10 mio. dollar are still in the secret location.</div>
+        <button style="position: absolute; right: 10%; bottom: 10%" onclick="startGame();">Start Again</button>
+    </div>
+    <div id="screen4" style="display: none">
+        <div style="width: 100%; margin-top: 10%; text-align: center; font-size: 2em">Oh no!</div>
+        <div style="width: 100%; margin-top: 10%; text-align: center">You died in prison... and so will Marv.</div>
+        <button style="position: absolute; right: 10%; bottom: 10%" onclick="startGame();">Start Again</button>
+    </div>
+    <div id="screen5" style="display: none">
+        <div style="width: 100%; margin-top: 10%; text-align: center; font-size: 2em">Oh no!</div>
+        <div style="width: 100%; margin-top: 10%; text-align: center">Marv got out of prison before you and the 10 mio. dollar are lost.</div>
+        <button style="position: absolute; right: 10%; bottom: 10%" onclick="startGame();">Start Again</button>
+    </div>
+</body>
+</html>
