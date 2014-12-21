@@ -7,6 +7,13 @@ Contribute assets on [Dropbox](https://dbinbox.com/DeadlineGameDev)
 Try the app on [Android](https://play.google.com/store/apps/developer?id=DeadlineGameDev)
 
 
+##Episode 2: Dungeons & Spiders
+
+[![Dungeons & Spiders screenshot](https://github.com/deadlinegamedev/DeadlineGameDev/blob/gh-pages/game2/screenshot.png)](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game2)
+
+Watch the [making-of](http://youtu.be/ON7EiGLaEQQ) and download the [source code](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game2).
+
+
 ##Episode 1: Money Riot
 
 [![Money Riot screenshot](https://github.com/deadlinegamedev/DeadlineGameDev/blob/gh-pages/game1/screenshot.png)](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game1)
