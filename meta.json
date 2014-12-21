@@ -1,5 +1,13 @@
 [
 	{
+        "id" : 2,
+        "date" : "December 21, 2014",
+        "title" : "Episode 2: Dungeons & Spiders",
+        "icon" : "deadline",
+        "youtube" : "ON7EiGLaEQQ",
+        "description" : "You're throwing a party tonight but there are spiders everywhere! Luckily, you have your trusty Spider-Ex spray can with you to save the day. Navigate through the corridor and tap the screen to kill the spiders."
+    }
+	{
         "id" : 1,
         "date" : "December 3, 2014",
         "title" : "Episode 1: Money Riot",

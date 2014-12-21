@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script type="text/javascript" src="index.js"></script>
+</head>
+<body style="padding: 0">
+    <canvas id="canvas" style="position: absolute; top: 0"></canvas>
+    <button id="left" style="position: absolute; bottom: 20%; left: 2%; font-size: 2em" onclick="window.goLeft();">Left</button>
+    <button id="right" style="position: absolute; bottom: 20%; right: 2%; font-size: 2em" onclick="window.goRight();">Right</button>
+    <div id="gameover" style="display: none; position: absolute; left: 0; top: 45%; width: 100%; text-align: center; color: red; font-size: 3em">Game Over</div>
+    <div style="position: absolute; left: 2%; top: 20%;">
+        <div id="score" style="color: black; font-size: 1em">Spiders: 0</div>
+        <div id="remainingSprays" style="color: black; font-size: 1em">Spray Can: 100%</div>
+    </div>
+    <img id="bg1" src="bg1.png" style="display: none"/>
+    <img id="bg2" src="bg2.png" style="display: none"/>
+    <img id="bg3" src="bg3.png" style="display: none"/>
+    <img id="spider" src="spider.png" style="display: none" />
+    <img id="spray" src="spray.png" style="display: none" />
+    <img id="spraycan" src="spraycan.png" style="display: none" />
+</body>
+</html>
