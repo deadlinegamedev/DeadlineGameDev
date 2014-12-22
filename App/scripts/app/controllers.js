@@ -17,7 +17,7 @@
         });
 
         $scope.showYoutube = function (game) {
-            window.open('http://www.youtube.com/watch?v=' + game.youtube, '_blank', 'location=yes');
+            VideoPlayer.play('http://www.youtube.com/watch?v=' +game.youtube);
         };
 
         $scope.share = function (game) {
