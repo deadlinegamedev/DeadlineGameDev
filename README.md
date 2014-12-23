@@ -4,6 +4,13 @@ DeadlineGameDev gh-pages
 This branch is publicly hosted on [http://deadlinegamedev.github.io/DeadlineGameDev](http://deadlinegamedev.github.io/DeadlineGameDev). The DeadlineGameDev app pulls all game assets from this url. Please go to the [master branch](https://github.com/deadlinegamedev/DeadlineGameDev) to see the full source code of the DeadlineGameDev project.
 
 
+##Episode 3: Smoothie Shop
+
+[![Smoothie Shop screenshot](https://github.com/deadlinegamedev/DeadlineGameDev/blob/gh-pages/game3/screenshot.png)](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game3)
+
+Watch the [making-of](http://youtu.be/hTjmfaOj8sU) and download the [source code](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game3).
+
+
 ##Episode 2: Dungeons & Spiders
 
 [![Dungeons & Spiders screenshot](https://github.com/deadlinegamedev/DeadlineGameDev/blob/gh-pages/game2/screenshot.png)](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game2)
