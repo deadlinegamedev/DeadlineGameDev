@@ -7,6 +7,13 @@ Contribute assets on [Dropbox](https://dbinbox.com/DeadlineGameDev)
 Try the app on [Android](https://play.google.com/store/apps/developer?id=DeadlineGameDev)
 
 
+##Episode 3: Smoothie Shop
+
+[![Smoothie Shop screenshot](https://github.com/deadlinegamedev/DeadlineGameDev/blob/gh-pages/game3/screenshot.png)](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game3)
+
+Watch the [making-of](http://youtu.be/hTjmfaOj8sU) and download the [source code](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game3).
+
+
 ##Episode 2: Dungeons & Spiders
 
 [![Dungeons & Spiders screenshot](https://github.com/deadlinegamedev/DeadlineGameDev/blob/gh-pages/game2/screenshot.png)](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game2)
