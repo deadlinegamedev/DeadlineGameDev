@@ -7,7 +7,18 @@ Contribute assets on [Dropbox](https://dbinbox.com/DeadlineGameDev)
 Try the app on [Android](https://play.google.com/store/apps/developer?id=DeadlineGameDev)
 
 
+##Episode 4: Happy Bird
+
+You've been reincarnated as an ugly bird and the only thing to do is eat, sleep, fly, repeat. Tap the screen to flap your wings (which I forgot to implement^^) and move to the flies to eat them.
+
+[![Happy Bird screenshot](https://github.com/deadlinegamedev/DeadlineGameDev/blob/gh-pages/game4/screenshot.png)](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game4)
+
+Watch the [making-of](http://youtu.be/hvAYxWzMfWQ) and download the [source code](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game4).
+
+
 ##Episode 3: Smoothie Shop
+
+It's the first day at your new smoothie shop and there is a lot customers. Just put the fruits into the blender and hit the button! Pro tip: Happy customers may give you a little extra.
 
 [![Smoothie Shop screenshot](https://github.com/deadlinegamedev/DeadlineGameDev/blob/gh-pages/game3/screenshot.png)](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game3)
 
@@ -16,12 +27,16 @@ Watch the [making-of](http://youtu.be/hTjmfaOj8sU) and download the [source code
 
 ##Episode 2: Dungeons & Spiders
 
+You're throwing a party tonight but there are spiders everywhere! Luckily, you have your trusty Spider-Ex spray can with you to save the day. Navigate through the corridor and tap the screen to kill the spiders.
+
 [![Dungeons & Spiders screenshot](https://github.com/deadlinegamedev/DeadlineGameDev/blob/gh-pages/game2/screenshot.png)](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game2)
 
 Watch the [making-of](http://youtu.be/ON7EiGLaEQQ) and download the [source code](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game2).
 
 
 ##Episode 1: Money Riot
+
+This game is an adaptation of the iterated prisoners dilemma. You play against your former partner-in-crime Marv to get out of prison and become a millionaire.
 
 [![Money Riot screenshot](https://github.com/deadlinegamedev/DeadlineGameDev/blob/gh-pages/game1/screenshot.png)](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game1)
 
