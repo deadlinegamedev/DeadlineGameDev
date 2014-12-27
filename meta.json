@@ -1,5 +1,13 @@
 [
 	{
+        "id" : 4,
+        "date" : "December 27, 2014",
+        "title" : "Episode 4: Happy Bird",
+        "icon" : "deadline",
+        "youtube" : "hvAYxWzMfWQ",
+        "description" : "You've been reincarnated as an ugly bird and the only thing to do is eat, sleep, fly, repeat. Tap the screen to flap your wings (which I forgot to implement^^) and move to the flies to eat them."
+    },
+	{
         "id" : 3,
         "date" : "December 23, 2014",
         "title" : "Episode 3: Smoothie Shop",
