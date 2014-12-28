@@ -6,7 +6,11 @@ rmdir /S /Q %FILES%
 del %ZIP%
 
 mkdir %FILES%
+mkdir %FILES%\res\icons\android
+mkdir %FILES%\res\screens\android
 xcopy %SOURCE%\config.xml %FILES%\
+xcopy /E %SOURCE%\res\icons\android\* %FILES%\res\icons\android\
+xcopy /E %SOURCE%\res\screens\android\* %FILES%\res\screens\android\
 xcopy /E /EXCLUDE:ignore.txt %SOURCE%\www\* %FILES%\
 
 cd %FILES%
