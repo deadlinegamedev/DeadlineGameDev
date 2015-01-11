@@ -1,5 +1,13 @@
 [
 	{
+        "id" : 5,
+        "date" : "January 11, 2014",
+        "title" : "Episode 5: Clean Screen",
+        "icon" : "deadline",
+        "youtube" : "1YTbxTsfGdI",
+        "description" : "Yo dawg! I heard you like phones so I put a phone in your phone. It's a little dirty though, so wipe the screen with your finger to clean it."
+    },
+	{
         "id" : 4,
         "date" : "December 27, 2014",
         "title" : "Episode 4: Happy Bird",
