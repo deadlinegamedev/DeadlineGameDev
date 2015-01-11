@@ -7,6 +7,15 @@ Contribute assets on [Dropbox](https://dbinbox.com/DeadlineGameDev)
 Try the app on [Android](https://play.google.com/store/apps/details?id=com.deadlinegamedev.DeadlineGameDev)
 
 
+##Episode 5: Clean Screen
+
+Yo dawg! I heard you like phones so I put a phone in your phone. It's a little dirty though, so wipe the screen with your finger to clean it.
+
+[![Clean Screen screenshot](https://github.com/deadlinegamedev/DeadlineGameDev/blob/gh-pages/game5/screenshot.png)](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game5)
+
+Watch the [making-of](http://youtu.be/1YTbxTsfGdI) and download the [source code](https://github.com/deadlinegamedev/DeadlineGameDev/tree/gh-pages/game5).
+
+
 ##Episode 4: Happy Bird
 
 You've been reincarnated as an ugly bird and the only thing to do is eat, sleep, fly, repeat. Tap the screen to flap your wings (which I forgot to implement^^) and move to the flies to eat them.
